@@ -1,2 +1,7 @@
 demo file is created by ranjith
 second line is created by aswathy
+
+
+function add  (a,b){
+    return a+b;
+} 
